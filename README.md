@@ -1,7 +1,7 @@
 # Akex64
 I'm a developer / pentester
 
-Intern at Microsoft Denmark
+
 
 # Languages / Skills
 
