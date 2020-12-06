@@ -1,5 +1,5 @@
 # Akex64
-I'm a developer / pentester
+I'm a developer / pentester, working with C/C++ as my main languages.
 
 
 
