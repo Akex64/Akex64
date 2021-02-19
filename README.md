@@ -2,6 +2,10 @@
 cybersecurity | c/c++ developer
 currently located in Denmark.
 
+i like malware.
+
+ps. malware repositories are for heuristics detection not for any malicious purpose.
+
 
 # tech skills
 
